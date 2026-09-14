@@ -3,51 +3,136 @@
 </p>
 
 <h3 align="center">Sphere Nexon</h3>
-<p align="center">Deep-tech brasileira construindo tecnologia proprietária em posicionamento, criptografia e sistemas de raciocínio.</p>
+
+
+### Technology, Software & Cybersecurity
+
+**Engineering What Comes Next.**
+
+Sphere Nexon is a deep-tech company dedicated to the research, development, and commercialization of proprietary technologies, software, and digital infrastructure.
+
+We engineer solutions for complex challenges across computing, cybersecurity, artificial intelligence, distributed systems, and emerging technologies.
+
+Our ambition is to build technology that goes beyond the conventional — combining scientific exploration, deep engineering, and product development to create solutions with meaningful real-world impact.
 
 ---
 
-Presença oficial no GitHub da Sphere Nexon, com um conjunto de tecnologias e ferramentas mantidas internamente. Aqui você encontra dois tipos principais de repositórios:
+## Who We Are
 
-- **Tecnologias proprietárias core**, que sustentam nosso portfólio institucional (GLM, SNA-456 e SN-Cipher Protocol), com acesso restrito ou parcialmente aberto conforme o estágio de cada projeto.
-- **Repositórios open source**, disponíveis publicamente sob licenças de código aberto.
+Sphere Nexon is a technology company built around one fundamental belief:
 
-Caso o status de um repositório não esteja claro, trate-o como fechado/proprietário e entre em contato conosco antes de qualquer uso.
+> The future is not simply adopted. It is engineered.
 
----
+We develop our own technologies, explore new computational possibilities, and transform research into products, systems, and services designed for a connected and evolving world.
 
-# Tecnologias Core
+From foundational software to advanced technological applications, our work is driven by curiosity, technical depth, and a long-term vision.
 
-A Sphere Nexon atua nas áreas de **Tecnologia, Software e Cibersegurança**, com três tecnologias proprietárias no centro do nosso trabalho:
+We are building more than products.
 
-- **[GLM](https://glm.space)** — Sistema de posicionamento GNSS de alta precisão.
-- **SNA-456** — Ecossistema criptográfico próprio, com hardening avançado (SMAC, Super-Box Composta).
-- **SN-Cipher Protocol** — Suíte de protocolos criptográficos construída em Rust.
-
-Acesso a repositórios relacionados a essas tecnologias pode exigir vínculo com a Sphere Nexon e aceite de termos específicos. Repositórios liberados são sinalizados com o tópico `open-source`; os demais devem ser tratados como proprietários.
+**We are building technological capabilities.**
 
 ---
 
-# Repositórios Open Source
+## What We Build
 
-Repositórios open source desta organização são sinalizados com o tópico `open-source` e licenciados sob suas respectivas licenças (MIT, Apache 2.0, etc.).
+Our work spans multiple technological domains, allowing us to explore opportunities across the digital economy while maintaining a strong foundation in engineering and research.
 
-Esses repositórios **não exigem** vínculo institucional com a Sphere Nexon nem acesso especial.
+### Software & Computing
 
-**Contribuições são bem-vindas.** O arquivo `CONTRIBUTING.md` de cada repositório descreve como as contribuições são aceitas.
+Proprietary software, platforms, programming technologies, and computational systems designed to expand what developers and businesses can achieve.
 
-Antes de contribuir, revise a licença, as diretrizes de contribuição, o código de conduta e as políticas de segurança de cada repositório.
+### Cybersecurity
+
+Security technologies, cryptographic research, and systems designed to strengthen digital protection and resilience against evolving threats.
+
+### Artificial Intelligence
+
+Applied research and intelligent systems that explore new ways to process information, automate complex tasks, and solve real-world problems.
+
+### Distributed Systems
+
+Architectures, protocols, and technologies for building scalable, reliable, and interconnected computing environments.
+
+### Digital Infrastructure
+
+Technologies that support the next generation of digital services, connected systems, and computational infrastructure.
+
+### Research & Development
+
+Exploration of emerging technologies, algorithms, and engineering approaches that can become the foundation of future products and services.
 
 ---
 
-# Segurança
+## Research & Engineering
 
-Se você acredita ter encontrado uma vulnerabilidade de segurança, siga as instruções descritas no `SECURITY.md` do repositório correspondente ou entre em contato pelo e-mail [contact@spherenexon.com](mailto:contact@spherenexon.com)
+Innovation is not a feature of our business.
+
+**It is part of our foundation.**
+
+Our research and engineering efforts focus on developing proprietary technologies, exploring new technical approaches, and turning complex concepts into practical systems.
+
+We believe meaningful innovation requires more than an idea. It requires experimentation, technical rigor, continuous improvement, and the ability to build.
+
+Our repositories represent part of that journey.
+
+Some projects are experimental. Others are under active development. Together, they reflect our ongoing pursuit of technological independence and engineering excellence.
 
 ---
 
-# Saiba Mais
+## Our Approach
+
+### Proprietary by Design
+
+We prioritize the development of technologies under our own control, from foundational research to practical implementation.
+
+### Engineering with Purpose
+
+We build to solve meaningful problems, combining technical ambition with practical applications.
+
+### Security at the Core
+
+We consider security, resilience, and responsible engineering fundamental to the technologies we develop.
+
+### Built for the Long Term
+
+We pursue technologies and capabilities that can evolve into lasting products, platforms, and infrastructure.
+
+### Global by Vision
+
+Born from Brazil. Building for the world.
+
+---
+
+## Explore Our Work
+
+This GitHub organization is home to projects, experiments, research, and software developed across the Sphere Nexon ecosystem.
+
+Explore our repositories to discover what we are building, how we approach complex technical challenges, and where our engineering journey is taking us.
+
+Every repository is part of a larger mission:
+
+**To create the technologies of what comes next.**
+
+---
+
+## About Sphere Nexon
+
+Sphere Nexon is part of the broader Krown Navix ecosystem, a group of ventures and companies being developed across technology, infrastructure, entertainment, finance, and other industries.
+
+Our technology initiatives are driven by a long-term vision of building proprietary capabilities and creating solutions with global potential.
+
+---
+
+## Connect With Us
+
+Explore our repositories, follow our development, and discover our work.
+
+**Sphere Nexon**
+
+Technology, Software & Cybersecurity
+
+*Engineering What Comes Next.*
 
 - [Site institucional](https://spherenexon.com)
-- [LinkedIn](https://www.linkedin.com/company/sphere-nexon/)
+- [LinkedIn](https://www.linkedin.com/company/spherenexon/)
 - [Instagram](https://www.instagram.com/spherenexon)
